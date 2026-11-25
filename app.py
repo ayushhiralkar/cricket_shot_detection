@@ -204,7 +204,6 @@ elif page == "Video Analysis Studio":
                     phase_metric.metric("Phase", phase)
                     
             cap.release()
-
 # --- PAGE 3: WEBCAM ---
 elif page == "Webcam Arena":
     st.markdown("### 🎥 Webcam Arena")
