@@ -1,0 +1,6 @@
+{
+    "Random Forest": 0.6333333333333333,
+    "Support Vector Machine": 0.6109375,
+    "Neural Network (MLP)": 0.6255208333333333,
+    "LSTM (Sequence)": 0.96875
+}
